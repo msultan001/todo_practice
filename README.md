@@ -25,3 +25,10 @@ Task Completion tracking
 - `pubspec.yaml`: Project dependencies
 - `README.md`: Project documentation
 
+## Screenshots of the UI
+- ![App Logo Screenshot](screenshots/Screenshot_20250703-181647_One%20UI%20Home.jpg)
+- ![HomePage](screenshots/Screenshot_20250703-181653.jpg)
+- ![Alert Dialog](screenshots/Screenshot_20250703-181732.jpg)
+- ![Adding tasks](screenshots/Screenshot_20250703-181743.jpg)
+- ![After Deletion](screenshots/Screenshot_20250703-181747.jpg)
+
